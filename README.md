@@ -1,6 +1,6 @@
 # Low-level programming & Algorithm
 
-Module of **Low-level programming** and **algorithm**, carried out during **Full Stack Software Engineering studies** at **[ALX Africa](https://www.alxafrica.com/)**.
+Module of **Low-level programming** and **Algorithm**, carried out during **Full Stack Software Engineering Studies** at **[ALX Africa](https://www.alxafrica.com/)**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
